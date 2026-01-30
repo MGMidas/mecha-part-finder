@@ -1,0 +1,769 @@
+[ {
+  "Nom du produit" : "Commande de moteur CC MR132",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-moteur-cc-mr132-26907.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/26907.jpg",
+  "Description du produit" : "Commande permettant de contrôler un moteur CC 2A dans les deux sens à partir d'une tension analogique, d'un signal RC ou d'une liaison I2C.",
+  "Prix (EUR)" : "15.20",
+  "Code produit" : "35456",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de moteur CC VNH5019 12A",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-moteur-cc-vnh5019-12a-21711.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/21711.jpg",
+  "Description du produit" : "Cette commande basée sur le circuit VNH5019 permet de contrôler un moteurs CC jusqu'à 12 A à partir d'une sortie PWM d'un microcontrôleur (Arduino, Seeeduino, etc).",
+  "Prix (EUR)" : "41.80",
+  "Code produit" : "32696",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de moteur CC Vint DCC1000_0",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-moteur-cc-vint-dcc1000-0-27025.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/27025.jpg",
+  "Description du produit" : "Ce module se raccorde directement sur un port Vint d'une interface SBC 3003 ou d'un module Hub HUB0000.",
+  "Prix (EUR)" : "90.00",
+  "Code produit" : "35508",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Commande de moteur CC 12A DRI0042",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-moteur-cc-12a-dri0042-25558.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/25558.jpg",
+  "Description du produit" : "Commande permettant de contrôler un moteur CC jusqu'à 12 A à partir d'une sortie PWM d'un microcontrôleur (Arduino ou compatible).",
+  "Prix (EUR)" : "23.90",
+  "Code produit" : "34884",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur CC 2x10 A MDD10A",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-cc-2x10-a-mdd10a-37250.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37250.jpg",
+  "Description du produit" : "Carte de commande prévue pour piloter 2 moteurs à balais 5 à 30 Vcc jusqu'à 10 A par canal via 2 sorties PWM (pour la vitesse) et 2 sorties digitales (pour le sens de rotation).",
+  "Prix (EUR)" : "28.20",
+  "Code produit" : "38327",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur CC 2x20 A MDD20A",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-cc-2x20-a-mdd20a-37247.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37247.jpg",
+  "Description du produit" : "Carte de commande prévue pour piloter 2 moteurs à balais 6 à 30 Vcc jusqu'à 20 A par canal. Deux sorties PWM (pour la vitesse) et 2 sorties digitales (pour le sens de rotation).",
+  "Prix (EUR)" : "42.00",
+  "Code produit" : "38324",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur CC 25 A MD25HV",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-cc-25-a-md25hv-37251.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37251.jpg",
+  "Description du produit" : "Carte de commande prévue pour piloter un moteur à balais 7 à 58 Vcc jusqu'à 25 A. Contrôle de la vitesse et du sens de rotation.",
+  "Prix (EUR)" : "69.90",
+  "Code produit" : "38328",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Commande moteur CC 10 A MD10C",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-cc-10-a-md10c-37244.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37244.jpg",
+  "Description du produit" : "Carte de commande prévue pour piloter un moteur à balais 5 à 30 Vcc jusqu'à 10 A.",
+  "Prix (EUR)" : "16.70",
+  "Code produit" : "38321",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur CC 2x3 A MDD3A",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-cc-2x3-a-mdd3a-37255.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37255.jpg",
+  "Description du produit" : "Carte de commande miniature prévue pour piloter 2 moteurs 4 à 16 Vcc jusqu'à 3 A par canal ou un moteur pas à pas depuis 2 sorties PWM d'un microcontrôleur (Arduino, Raspberry Pi, etc).",
+  "Prix (EUR)" : "9.90",
+  "Code produit" : "38332",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur CC 30 A MD30C",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-cc-30-a-md30c-37248.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37248.jpg",
+  "Description du produit" : "Carte de commande prévue pour piloter un moteur à balais 5 à 30 Vcc jusqu'à 30 A.",
+  "Prix (EUR)" : "42.00",
+  "Code produit" : "38325",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur CC 13 A MD13S",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-cc-13-a-md13s-37245.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37245.jpg",
+  "Description du produit" : "Carte de commande prévue pour piloter un moteur à balais 5 à 30 Vcc dans les deux sens jusqu'à 13 A via une sortie PWM (pour la vitesse) et une sortie digitale (pour le sens de rotation). Connectique compatible Grove.",
+  "Prix (EUR)" : "16.70",
+  "Code produit" : "38322",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur CC 20 A MD20C",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-cc-20-a-md20c-37246.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37246.jpg",
+  "Description du produit" : "Carte de commande prévue pour piloter un moteur à balais 6 à 30 Vcc jusqu'à 20 A. Sortie PWM (pour la vitesse) et sortie digitale (pour le sens de rotation).",
+  "Prix (EUR)" : "25.20",
+  "Code produit" : "38323",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur CC 2x10 A MDDS10",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-cc-2x10-a-mdds10-37257.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37257.jpg",
+  "Description du produit" : "Carte de commande prévue pour piloter 2 moteurs à balais 7 à 35 Vcc jusqu'à 10 A par canal. Ce driver peut être commandé via un signal RC, des signaux PWM et digital, une liaison UART ou un signal analogique.",
+  "Prix (EUR)" : "65.90",
+  "Code produit" : "38334",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de 1 moteur CC Phidgets 1065",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-1-moteur-cc-phidgets-1065-17139.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/17139.jpg",
+  "Description du produit" : "Ce module Phidget se raccorde directement sur le port USB d'un PC. Il permet de contrôler la direction, la vitesse et l'accélération d'un moteur CC.",
+  "Prix (EUR)" : "94.90",
+  "Code produit" : "25462",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur CC 10 A MD10-POT",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-cc-10-a-md10-pot-37249.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37249.jpg",
+  "Description du produit" : "Carte de commande pour un moteur CC 7 à 30 Vcc 10 A.",
+  "Prix (EUR)" : "14.50",
+  "Code produit" : "38326",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Shield moteur CC 10 A SH-MD10",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-moteur-cc-10-a-sh-md10-37252.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37252.jpg",
+  "Description du produit" : "Shield compatible Arduino prévu pour piloter un moteur à balais 7 à 30 Vcc jusqu'à 10 A via une sortie PWM (pour la vitesse) et une sortie digitale (pour le sens de rotation).",
+  "Prix (EUR)" : "17.50",
+  "Code produit" : "38329",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur CC 1 x 1,7A 2990",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-cc-1-x-1-7a-2990-29145.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/29145.jpg",
+  "Description du produit" : "Cette carte de commande basée sur le circuit DRV8838 à canal unique permet de piloter un moteur CC jusqu'à 1,7 A à partir de deux sorties d'un microcontrôleur (une pour le sens et une PWM pour la vitesse).",
+  "Prix (EUR)" : "5.20",
+  "Code produit" : "36257",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur CC 1 x 1,7 A 4733",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-cc-1-x-1-7-a-4733-37144.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37144.jpg",
+  "Description du produit" : "Module de commande basé sur un MP6550 prévu pour piloter un moteur CC 1,8 à 22 Vcc jusqu'à 1,7 A via 2 sorties PWM d'un microcontrôleur (une pour le sens et une pour la vitesse).",
+  "Prix (EUR)" : "5.50",
+  "Code produit" : "38261",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur CC 1 x 2,2 A 5061",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-cc-1-x-2-2-a-5061-37145.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37145.jpg",
+  "Description du produit" : "Module de commande compact basé sur un M1T256 prévu pour piloter un moteur CC 4,5 à 48 Vcc jusqu'à 2,2 A depuis le bus I2C d'un microcontrôleur. Librairies Arduino et Python disponibles en téléchargement.",
+  "Prix (EUR)" : "19.60",
+  "Code produit" : "38262",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Commande I2C de 2 moteurs CC Grove 105020093",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-i2c-de-2-moteurs-cc-grove-105020093-31756.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/31756.jpg",
+  "Description du produit" : "Carte de commande Grove basée sur un driver L298P permettant de contrôler deux moteurs CC dans les deux sens de 6 à 12 Vcc/1 A par canal.",
+  "Prix (EUR)" : "19.95",
+  "Code produit" : "36758",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de 2 moteurs GT1112",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-2-moteurs-gt1112-26137.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/26137.jpg",
+  "Description du produit" : "Module de commande permettant de contrôler deux moteurs CC ou un moteur pas-à-pas à partir de 4 sorties PWM d'un microcontrôleur Arduino ou compatible.",
+  "Prix (EUR)" : "6.50",
+  "Code produit" : "35233",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande I2C de 2 moteurs CC Grove 108020103",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-i2c-de-2-moteurs-cc-grove-108020103-29016.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/29016.jpg",
+  "Description du produit" : "Carte de commande Grove basée sur un driver TB6612FNG permettant de contrôler deux moteurs CC dans les deux sens jusqu'à 12 Vcc/1,2 A par canal.",
+  "Prix (EUR)" : "12.90",
+  "Code produit" : "36231",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Shield moteur CC 3 x 2 A M3S256 5030",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-moteur-cc-3-x-2-a-m3s256-5030-35039.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/35039.jpg",
+  "Description du produit" : "Shield pour carte compatible Arduino prévu pour piloter 3 moteurs CC jusqu'à 2 A par canal via le bus I2C.",
+  "Prix (EUR)" : "49.90",
+  "Code produit" : "37633",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "HAT moteur CC 3 x 2 A M3H256 5033",
+  "URL du produit" : "https://www.gotronic.fr/art-hat-moteur-cc-3-x-2-a-m3h256-5033-35409.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/35409.jpg",
+  "Description du produit" : "Module HAT Motoron M3H256 de Pololu pour carte Raspberry Pi permettant de piloter 3 moteurs CC jusqu'à 2 A par canal. Il contrôle la vitesse et le sens de rotation sur les trois canaux indépendamment via le bus I2C.",
+  "Prix (EUR)" : "56.90",
+  "Code produit" : "37816",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "HAT moteur CC 3 x 2 A M3H256 5035",
+  "URL du produit" : "https://www.gotronic.fr/art-hat-moteur-cc-3-x-2-a-m3h256-5035-35410.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/35410.jpg",
+  "Description du produit" : "Module HAT Motoron M3H256 de Pololu pour carte Raspberry Pi permettant de piloter 3 moteurs CC jusqu'à 2 A par canal. Ce module permet de contrôler la vitesse et le sens de rotation sur les trois canaux indépendamment via le bus I2C.",
+  "Prix (EUR)" : "25.55",
+  "Code produit" : "37817",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de 2 moteurs CC DRV8833 2x1,2A",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-2-moteurs-cc-drv8833-2x1-2a-21757.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/21757.jpg",
+  "Description du produit" : "Cette double commande basée sur le circuit DRV8833 permet de contrôler deux moteurs CC jusqu'à 1,2A ou un moteur pas-à-pas à partir d'une sortie PWM d'un microcontrôleur (Arduino, Seeeduino, etc).",
+  "Prix (EUR)" : "11.40",
+  "Code produit" : "32804",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Carte de commande moteur CC 1 x 2,6 A 2997",
+  "URL du produit" : "https://www.gotronic.fr/art-carte-de-commande-moteur-cc-1-x-2-6-a-2997-28061.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/28061.jpg",
+  "Description du produit" : "Carte de commande basée sur un TB9051FTG permettant de piloter un moteur CC jusqu'à 2,6 A à partir de sorties digitales d'un microcontrôleur.",
+  "Prix (EUR)" : "12.90",
+  "Code produit" : "35906",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de 2 moteurs CC 2x1,5 A DRI0040",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-2-moteurs-cc-2x1-5-a-dri0040-25562.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/25562.jpg",
+  "Description du produit" : "Double commande miniature basée sur un HR8833 permettant le contrôle de 2 moteurs CC jusqu'à 1,5 A à partir de 4 sorties d'un microcontrôleur type Arduino ou compatible.",
+  "Prix (EUR)" : "5.20",
+  "Code produit" : "34892",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de 2 moteurs CC DRV8835 2x1,2A",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-2-moteurs-cc-drv8835-2x1-2a-21715.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/21715.jpg",
+  "Description du produit" : "Cette double commande basée sur le circuit DRV8835 permet de contrôler deux moteurs CC jusqu'à 1,2 A ou un moteur pas-à-pas à partir d'une sortie PWM d'un microcontrôleur (Arduino, Seeeduino, etc).",
+  "Prix (EUR)" : "7.70",
+  "Code produit" : "32706",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Régulateur de vitesse DCPWM80",
+  "URL du produit" : "https://www.gotronic.fr/art-regulateur-de-vitesse-dcpwm80-34878.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/34878.jpg",
+  "Description du produit" : "Régulateur de vitesse permettant de faire varier la vitesse d'un moteur CC jusqu'à 3 A.",
+  "Prix (EUR)" : "5.30",
+  "Code produit" : "37580",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Shield moteurs CC 4 x 1,2 A DRI0039",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-moteurs-cc-4-x-1-2-a-dri0039-25557.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/25557.jpg",
+  "Description du produit" : "Shield compatible Arduino permettant de contrôler 4 moteurs CC jusqu'à 1,2 A, basé sur deux TB6612FNG. Il permet le contrôle de la vitesse et du sens des moteurs via le signal PWM de 8 sorties microcontrôleur.",
+  "Prix (EUR)" : "17.90",
+  "Code produit" : "34882",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de 2 moteurs SBC-Motodriver2",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-2-moteurs-sbc-motodriver2-27418.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/27418.jpg",
+  "Description du produit" : "Double commande moteur Joy-It basée sur un L298N permettant de contrôler la vitesse et le sens de deux moteurs CC à partir d'un microcontrôleur Arduino par exemple.",
+  "Prix (EUR)" : "5.90",
+  "Code produit" : "35683",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de moteurs CC 2x1,2 A DRI0044",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-moteurs-cc-2x1-2-a-dri0044-29566.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/d5/8a/641fed4bf5d42f21a42ba78e4404.jpg",
+  "Description du produit" : "Double commande basée sur le circuit TB6612FNG permettant le contrôle de deux moteurs CC jusqu'à 1,2 A. Ces deux moteurs sont pilotés via deux entrées digitales (sens) et deux entrées PWM (vitesse) d'un microcontroleur type Arduino ou compatible.",
+  "Prix (EUR)" : "5.50",
+  "Code produit" : "36343",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Carte de commande moteur CC 1 x 9 A 36v9 756",
+  "URL du produit" : "https://www.gotronic.fr/art-carte-de-commande-moteur-cc-1-x-9-a-36v9-756-30771.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/30771.jpg",
+  "Description du produit" : "Carte de commande 36v9 de Pololu basée sur un pont en H permettant de piloter un moteur CC dans les deux sens jusqu'à 9 A à partir de sorties digitales d'un microcontrôleur.",
+  "Prix (EUR)" : "46.80",
+  "Code produit" : "36507",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Driver de moteur brushless A89301 5356",
+  "URL du produit" : "https://www.gotronic.fr/art-driver-moteur-brushless-a89301-5356.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/f1/5a/633d3105a379415b58effc3926cf.jpg",
+  "Description du produit" : "Contrôleur de moteur brushless à MOSFET basé sur le driver A89301 prévu pour piloter un moteur CC brushless 5,5 à 48 Vcc jusqu'à 11 A.",
+  "Prix (EUR)" : "27.40",
+  "Code produit" : "39647",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Moteur DCM4109_0",
+  "URL du produit" : "https://www.gotronic.fr/art-moteur-dcm4109-0-39242.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/d3/74/7a913cdea002dd76b0784d5c93bd.jpg",
+  "Description du produit" : "Moteur CC sans balais (brushless ou BLDC) DCM4109 NEMA 23 offrant une vitesse de rotation à 170 tr/min pour un couple de 51 kg.cm.",
+  "Prix (EUR)" : "119.50",
+  "Code produit" : "38837",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Shield moteurs CC 2 x 10 A SH-MDD10",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-moteurs-cc-2x10-a-sh-mdd10-37253.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37253.jpg",
+  "Description du produit" : "Shield compatible Arduino prévu pour piloter 2 moteurs CC à balais jusqu'à 10 A par canal ou un moteur pas-à-pas. Ce module permet de contrôler le sens et la vitesse de rotation indépendamment sur les deux canaux.",
+  "Prix (EUR)" : "31.20",
+  "Code produit" : "38330",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Hat commande 4 moteurs CC 1,2 A ADA4280",
+  "URL du produit" : "https://www.gotronic.fr/art-hat-commande-4-moteurs-cc-1-2-a-ada4280-30800.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/30800.jpg",
+  "Description du produit" : "Ce module compatible Raspberry Pi basé sur 4 ponts en H TB6612 permet de contrôler 4 moteurs CC jusqu'à 1,2 A ou de commander 2 moteurs pas-à-pas.",
+  "Prix (EUR)" : "29.90",
+  "Code produit" : "36521",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Moteur 42DMW61-2440",
+  "URL du produit" : "https://www.gotronic.fr/art-moteur-42dmw61-2440-37427.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37427.jpg",
+  "Description du produit" : "Moteur CC sans balais (brushless ou BDLC) 42DMW61 NEMA 17 offrant une vitesse de rotation à 4000 tr/min pour un couple de 1,3 kg.cm.",
+  "Prix (EUR)" : "46.80",
+  "Code produit" : "38385",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Moteur 57DMWH75-2440",
+  "URL du produit" : "https://www.gotronic.fr/art-moteur-57dmwh75-2440-37428.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37428.jpg",
+  "Description du produit" : "Moteur CC sans balais (brushless ou BDLC) 57DMWH75 NEMA 23 offrant une vitesse de rotation à 4000 tr/min pour un couple de 2,8 kg.cm.",
+  "Prix (EUR)" : "55.80",
+  "Code produit" : "38386",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Moteur 57DMWH115-2440",
+  "URL du produit" : "https://www.gotronic.fr/art-moteur-57dmwh115-2440-37429.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37429.jpg",
+  "Description du produit" : "Moteur CC sans balais 57DMWH115 NEMA 23 offrant une vitesse de rotation à 4000 tr/min pour un couple de 5 kg.cm. Compatible avec le module Phidgets Vint DCC1100_0.",
+  "Prix (EUR)" : "86.20",
+  "Code produit" : "38387",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Shield moteurs 4 x 1,2 A ADA1438",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-moteurs-4-x-1-2-a-ada1438-20681.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/cc/89/392bb270bc05d54111357c7f9a7d.jpg",
+  "Description du produit" : "Shield moteur permettant de contrôler 4 moteurs CC ou 2 moteurs pas-à-pas et disposant de 2 connexions pour servomoteurs.",
+  "Prix (EUR)" : "21.60",
+  "Code produit" : "32296",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Module Hat 2 moteurs CC 1,2 A DFR0592",
+  "URL du produit" : "https://www.gotronic.fr/art-module-hat-2-moteurs-cc-1-2-a-dfr0592-30625.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/30625.jpg",
+  "Description du produit" : "Module Hat pour carte Raspberry Pi basé sur un TB6612FNG permettant le contrôle de 2 moteurs CC jusqu'à 1,2 A par canal. Ce module communique avec la carte Raspberry Pi grâce à une liaison I2C via le port GPIO.",
+  "Prix (EUR)" : "18.60",
+  "Code produit" : "36467",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Shield moteurs 2 x 1,2 A DRV8835 2511",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-moteurs-2-x-1-2-a-drv8835-2511-22275.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/22275.jpg",
+  "Description du produit" : "Module shield moteur basé sur un DRV8835 permettant de contrôler deux moteurs CC jusqu'à 1,2 A.",
+  "Prix (EUR)" : "12.70",
+  "Code produit" : "33338",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Shield moteurs CC 2 x 2,6 A 2520",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-moteurs-cc-2-x-2-6-a-2520-29514.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/36/79/f33278d342f7f3630d4ff7eb64b5.jpg",
+  "Description du produit" : "Ce shield compatible Arduino basé sur deux TB9051FTG permet de contrôler la vitesse et le sens de deux moteurs CC jusqu'à 2,6 A.",
+  "Prix (EUR)" : "29.50",
+  "Code produit" : "36312",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Driver moteur pas-à-pas ADA3297",
+  "URL du produit" : "https://www.gotronic.fr/art-driver-moteur-pas-a-pas-ada3297-25543.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/25543.jpg",
+  "Description du produit" : "Carte de commande basé sur le circuit DRV8833 permettant de contrôler deux moteurs CC dans les deux sens jusqu'à 1,2 A par canal ou un moteur pas-à-pas bipolaire ou unipolaire à partir d'une sortie PWM (vitesse) et d'une sortie digitale (sens de rotation) d'un microcontrôleur type Arduino ou compatible.",
+  "Prix (EUR)" : "7.95",
+  "Code produit" : "34854",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de 2 moteurs MC33926 2756",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-2-moteurs-mc33926-2756-23873.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/23873.jpg",
+  "Description du produit" : "Cette double commande Pololu est basée sur deux circuits MC33926 et permet de contrôler deux moteurs CC jusqu'à 3 A à partir de sorties PWM d'une carte Raspberry 3B+ ou 4B.",
+  "Prix (EUR)" : "29.95",
+  "Code produit" : "34068",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Commande de moteur brushless DCC1100_0",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-moteur-brushless-dcc1100-0-37426.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37426.jpg",
+  "Description du produit" : "Module prévu pour piloter un moteur CC brushless (sans balais) avec votre ordinateur via l'intermédiaire d'un HUB Vint.",
+  "Prix (EUR)" : "73.80",
+  "Code produit" : "38382",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de 2 moteurs TB6612FNG 2x1A",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-2-moteurs-tb6612fng-2x1a-21716.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/21716.jpg",
+  "Description du produit" : "Cette double commande basée sur le circuit TB6612FNG permet de contrôler deux moteurs CC jusqu'à 1 A ou un moteur pas-à-pas bipolaire à partir d'une sortie PWM d'un microcontrôleur.",
+  "Prix (EUR)" : "6.60",
+  "Code produit" : "32708",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur 1 x 1,9 A 4036",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-1-x-1-9-a-4036-36218.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/36218.jpg",
+  "Description du produit" : "Commande basée sur un circuit DRV8876 prévu pour contrôler un moteur CC 1,3 A de 4,5 à 37 Vcc depuis un microcontrôleur.",
+  "Prix (EUR)" : "8.50",
+  "Code produit" : "38081",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur 1 x 2,1 A 4035",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-1-x-2-1-a-4035-36219.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/36219.jpg",
+  "Description du produit" : "Commande basée sur un circuit DRV8874 prévu pour contrôler un moteur CC 2,1 A de 4,5 à 37 Vcc depuis un microcontrôleur.",
+  "Prix (EUR)" : "12.70",
+  "Code produit" : "38082",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur 1 x 1,7 A 2961",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-1-x-1-7-a-2961-27334.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/27334.jpg",
+  "Description du produit" : "Carte de commande basée sur un MAX14870 permettant de piloter un moteur CC jusqu'à 1,7 A à partir des sorties digitales d'un microcontrôleur.",
+  "Prix (EUR)" : "12.80",
+  "Code produit" : "35646",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Shield 2 moteurs CC MAX14870 2 x 1,7 A 2519",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-2-moteurs-cc-max14870-2-x-1-7-a-2519-28015.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/28015.jpg",
+  "Description du produit" : "Ce shield de Pololu compatible Arduino basé sur deux ponts en H MAX14870 permet de contrôler deux moteurs CC jusqu'à 1,7 A par canal.",
+  "Prix (EUR)" : "29.90",
+  "Code produit" : "35894",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Shield 2 moteurs CC MAX14870 2 x 1,7 A 3758",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-2-moteurs-cc-max14870-2-x-1-7-a-3758-28016.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/28016.jpg",
+  "Description du produit" : "Ce shield de Pololu compatible Raspberry Pi basé sur deux ponts en H MAX14870 permet de contrôler deux moteurs CC jusqu'à 1,7 A par canal.",
+  "Prix (EUR)" : "30.60",
+  "Code produit" : "35895",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "2 modules encodeurs pour moteurs CC PIM604",
+  "URL du produit" : "https://www.gotronic.fr/art-2-cales-encodeurs-moteur-37325.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/25/2f/28bdf24eec1885cffc5af8a12942.jpg",
+  "Description du produit" : "Ce kit comprend deux encodeurs à souder sur des motoréducteurs miniatures. Ils permettent de transmettre des informations de vitesse à la carte Motor 2040.",
+  "Prix (EUR)" : "5.30",
+  "Code produit" : "38355",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Shield commande moteur FireBeetle DFR0508",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-commande-moteur-firebeetle-dfr0508-27834.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/27834.jpg",
+  "Description du produit" : "Shield moteur pour module FireBeetle (non inclus) permettant la commande de 4 servomoteurs et de 4 moteurs CC jusqu'à 1,2 A ou de 2 moteurs pas à pas bipolaires.",
+  "Prix (EUR)" : "16.30",
+  "Code produit" : "35799",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Commande moteur pour micro:bit 5698",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-pour-micro-bit-5698-32566.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/32566.jpg",
+  "Description du produit" : "Carte de contrôle moteur pour carte micro:bit basée sur un circuit DRV8833 permettant le contrôle de deux moteurs CC jusqu'à 1,5 A par canal. ​Ce module permet de contrôler la vitesse et le sens de rotation sur les deux canaux de manière indépendante.",
+  "Prix (EUR)" : "14.90",
+  "Code produit" : "37021",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de 2 moteurs DRI0002 2x2A",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-2-moteurs-dri0002-2x2a-19344.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/19344.jpg",
+  "Description du produit" : "Double commande de moteurs DFRobot permettant de contrôler deux moteurs CC à partir d'une sortie PWM d'un microcontrôleur (Arduino, DFRobot, etc).",
+  "Prix (EUR)" : "16.90",
+  "Code produit" : "31704",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Carte robotique pour Pico 5329",
+  "URL du produit" : "https://www.gotronic.fr/art-carte-robotique-pour-pico-5329-33373.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/33373.jpg",
+  "Description du produit" : "Carte de Kitronik permettant la réalisation de projets robotiques autour d'une carte Raspberry Pi Pico avec le contrôle de 8 servomoteurs, de 4 moteurs CC ou de 2 moteurs pas à pas.",
+  "Prix (EUR)" : "20.90",
+  "Code produit" : "37213",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Module RoboHAT",
+  "URL du produit" : "https://www.gotronic.fr/art-module-robohat-28573.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/28573.jpg",
+  "Description du produit" : "Ce module \"RoboHat\" compatible Raspberry Pi (non inclus) est basé sur un DRV8833 et permet le pilotage de deux moteurs CC jusqu'à 1,5 A par canal.",
+  "Prix (EUR)" : "15.90",
+  "Code produit" : "36091",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de 2 moteurs RB01C025 2x2A",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-2-moteurs-rb01c025-2x2a-19030.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/19030.jpg",
+  "Description du produit" : "Double commande de moteurs permettant de contrôler deux moteurs CC ou un moteur pas-à-pas bipolaire à partir d'une sortie PWM d'un microcontrôleur (Arduino, Seeeduino, etc).",
+  "Prix (EUR)" : "23.90",
+  "Code produit" : "25409",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de 2 moteurs DRI0018 2x15A",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-2-moteurs-dri0018-2x15a-19703.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/19703.jpg",
+  "Description du produit" : "Double commande de moteurs 15A DFRobot permettant de contrôler deux moteurs CC à partir d'une sortie PWM d'un microcontrôleur.",
+  "Prix (EUR)" : "55.90",
+  "Code produit" : "31914",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Shield moteur 2 x 2 A ARD-MOTO1",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-moteur-2-x-2-a-ard-moto1-27416.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/27416.jpg",
+  "Description du produit" : "Ce shield moteur compatible Arduino basé sur un L298N permet de contrôler deux moteurs CC jusqu'à 2 A dans les deux sens.",
+  "Prix (EUR)" : "14.80",
+  "Code produit" : "35681",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Shield moteur VNH5019 2 x 12 A",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-moteur-vnh5019-2-x-12-a-21710.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/21710.jpg",
+  "Description du produit" : "Ce shield de Pololu compatible Arduino permet de contrôler deux moteurs CC jusqu'à 12 A. Il est basé sur deux VNH5019 et permet de contrôler les moteurs dans les deux sens à partir de 6 sorties de microcontrôleur.",
+  "Prix (EUR)" : "71.90",
+  "Code produit" : "32694",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de moteur + feedback 21V3 3A",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-moteur-feedback-21v3-3a-21709.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/21709.jpg",
+  "Description du produit" : "Module de commande permettant de contrôler un moteur CC à balais dans les deux sens avec feedback. La commande peut se faire à l'aide d'un PC, d'une tension analogique, d'un signal RC ou d'un signal série (TTL).",
+  "Prix (EUR)" : "68.60",
+  "Code produit" : "32722",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Commande de 2 moteurs 2x1 A MKR-DRIVE",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-2-moteurs-2x1-a-mkr-drive-37254.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37254.jpg",
+  "Description du produit" : "Module prévu pour piloter 2 moteurs CC jusqu'à 1 A ou un moteur pas-à-pas à partir de 4 sorties PWM d'une carte type Arduino, ESP32, Raspberry Pi, etc.",
+  "Prix (EUR)" : "4.90",
+  "Code produit" : "38331",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Shield moteurs 2 x 14 A G2 24v14 2516",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-moteur-24v14-48347.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/9e/85/286aa56e9311776746b139e45dbe.jpg",
+  "Description du produit" : "Shield Dual G2 24v14 de Pololu compatible Arduino prévu pour contrôler 2 moteurs CC jusqu'à 14 A par canal.",
+  "Prix (EUR)" : "84.25",
+  "Code produit" : "39281",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur 1 x 1,9 A 4039",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-1-x-1-9-a-4039-35260.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/35260.jpg",
+  "Description du produit" : "Commande basée sur le circuit DRV8256P à canal unique permettant de piloter un moteur CC 4,5 à 48 Vcc jusqu'à 1,9 A à partir de deux sorties digitales PWM d'un microcontrôleur.",
+  "Prix (EUR)" : "14.80",
+  "Code produit" : "37761",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de 2 moteurs 2x2A MR143",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-2-moteurs-2x2a-mr143-28004.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/28004.jpg",
+  "Description du produit" : "Double commande de Microbot permettant de contrôler deux moteurs CC jusqu'à 2 A à partir de 4 sorties PWM d'un microcontrôleur compatible Arduino.",
+  "Prix (EUR)" : "13.95",
+  "Code produit" : "35886",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Carte robotique pour Pico 5331",
+  "URL du produit" : "https://www.gotronic.fr/art-carte-robotique-pour-pico-5331-33566.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/33566.jpg",
+  "Description du produit" : "Carte de Kitronik permettant la réalisation de projets robotiques autour d'une carte Raspberry Pi Pico avec le contrôle de 2 moteurs CC ou d'un moteur pas à pas.",
+  "Prix (EUR)" : "11.90",
+  "Code produit" : "37290",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande moteur 1 x 1,9 A 4038",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-moteur-1-x-1-9-a-4038-35259.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/35259.jpg",
+  "Description du produit" : "Commande basée sur le circuit DRV8256E à canal unique permettant de piloter un moteur CC 4,5 à 48 Vcc jusqu'à 1,9 A à partir de deux sorties digitales d'un microcontrôleur (une pour le sens et une PWM pour la vitesse).",
+  "Prix (EUR)" : "13.30",
+  "Code produit" : "37760",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de moteur 10A SyRen10",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-moteur-10a-syren10-11570.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/11570.jpg",
+  "Description du produit" : "Commande de moteur 10 A pour les moteurs CC à balais. Elle convient pour la propulsion de robots jusqu'à 45 kg (15 kg pour les robots de combat), pour des véhicules électriques, etc.",
+  "Prix (EUR)" : "54.50",
+  "Code produit" : "24600",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de moteur 25A SyRen25",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-moteur-25a-syren25-11571.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/11571.jpg",
+  "Description du produit" : "Commande de moteur 25 A pour les moteurs CC à balais. Elle convient pour la propulsion de robots jusqu'à 80 kg (22 kg pour les robots de combat), pour des véhicules électriques, etc.",
+  "Prix (EUR)" : "78.30",
+  "Code produit" : "24602",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Module ventilateur pour driver mBuild",
+  "URL du produit" : "https://www.gotronic.fr/art-module-ventilateur-40303.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/c8/e3/f93024125963d2e1d6366b10f91c.jpg",
+  "Description du produit" : "Module moteur CC avec hélice prévu pour être connecté à un contrôleur de moteur CC mBuild (non inclus). Connecteur JST-PH 2.0 mm.",
+  "Prix (EUR)" : "5.95",
+  "Code produit" : "39048",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Shield Motor MKR ASX00003",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-motor-mkr-asx00003-32474.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/32474.jpg",
+  "Description du produit" : "Shield basé sur un ARM Cortex-M0+ permettant le contrôle de 4 moteurs CC jusqu'à 3 A par canal et de 4 servomoteurs via un microcontrôleur MKR.",
+  "Prix (EUR)" : "70.70",
+  "Code produit" : "36850",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Commande de moteur 50A SyRen50",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-moteur-50a-syren50-17487.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/17487.jpg",
+  "Description du produit" : "Commande de moteur 50 A pour les moteurs CC à balais. Elle convient pour la propulsion de robots jusqu'à 110 kg (36 kg pour les robots de combat), pour des véhicules électriques, etc.",
+  "Prix (EUR)" : "140.60",
+  "Code produit" : "24605",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "FeatherWing commande 4 moteurs CC ADA2927",
+  "URL du produit" : "https://www.gotronic.fr/art-featherwing-commande-4-moteurs-cc-ada2927-24704.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/24704.jpg",
+  "Description du produit" : "Module FeatherWing basé sur deux ponts en H TB661 permettant de contrôler 4 moteurs CC ou 2 moteurs pas-à-pas jusqu'à 1,2 A.",
+  "Prix (EUR)" : "27.90",
+  "Code produit" : "34352",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Arduino Motor Shield 2 x 2 A A000079",
+  "URL du produit" : "https://www.gotronic.fr/art-arduino-motor-shield-2-x-2-a-a000079-18747.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/18747.jpg",
+  "Description du produit" : "Le module Arduino Motor Shield se connecte sur une carte Arduino Uno, Leonardo, etc, et permet de contrôler la vitesse et le sens de rotation de deux moteurs à courant continu ou un moteur pas-à-pas.",
+  "Prix (EUR)" : "29.65",
+  "Code produit" : "31060",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "HAT moteur 2 x 1 A Pico SKU21468",
+  "URL du produit" : "https://www.gotronic.fr/art-hat-moteur-2-x-1-a-pico-sku21468-35074.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/35074.jpg",
+  "Description du produit" : "Module HAT pour Raspberry Pi Pico prévu pour piloter 2 moteurs CC jusqu'à 1 A par canal. Ce module permet de contrôler la vitesse et le sens de rotation sur les deux canaux indépendamment.",
+  "Prix (EUR)" : "9.90",
+  "Code produit" : "37638",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande I2C de 4 moteurs CC Motodriver3",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-i2c-de-4-moteurs-cc-motodriver3-38163.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/38163.jpg",
+  "Description du produit" : "Commande moteurs prévue pour contrôler la vitesse et le sens de 4 moteurs 4 à 10 Vcc jusqu'à 1,5 A. Ce driver communique en I2C avec une carte compatible Arduino, Raspberry Pi, Pico ou micro:bit.",
+  "Prix (EUR)" : "21.90",
+  "Code produit" : "38563",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Potentiomètre linéaire motorisé 10 KΩ ADA5466",
+  "URL du produit" : "https://www.gotronic.fr/art-potentiometre-lineaire-motorise-10-k-937-ada5466-36139.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/36139.jpg",
+  "Description du produit" : "Potentiomètre linéaire de 10 kΩ à glissière équipé d'un moteur CC permettant le déplacement du curseur.",
+  "Prix (EUR)" : "31.50",
+  "Code produit" : "38050",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de 2 moteurs CC 2x7A DRI0041",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-2-moteurs-cc-2x7a-dri0041-25554.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/25554.jpg",
+  "Description du produit" : "Double commande permettant de contrôler deux moteurs CC jusqu'à 7 A à partir d'une sortie PWM d'un microcontrôleur (Arduino ou compatible).",
+  "Prix (EUR)" : "24.80",
+  "Code produit" : "34876",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Shield moteur 2 x 18 A 3750",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-moteur-2-x-18-a-3750-27381.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/27381.jpg",
+  "Description du produit" : "Ce shield de Pololu compatible Raspberry Pi3 ou Pi4 (non incluse) basé sur deux ponts en H permet de contrôler deux moteurs CC jusqu'à 18 A par canal.nt.",
+  "Prix (EUR)" : "88.90",
+  "Code produit" : "35657",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Commande de moteurs CC 2 x 1,2A ROB-14451",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-moteurs-cc-2-x-1-2a-rob-14451-27981.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/27981.jpg",
+  "Description du produit" : "Carte basée sur un TB6612FNG permettant la commande de 2 moteurs CC jusqu'à 1,2 A. Deux signaux d'entrée permettent de contrôler les moteurs selon 4 modes: CW, CCW, short-brake et stop.",
+  "Prix (EUR)" : "18.90",
+  "Code produit" : "35878",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande de 2 moteurs CC 30 A MDDS30",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-de-2-moteurs-cc-30-a-mdds30-37258.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/37258.jpg",
+  "Description du produit" : "Carte de commande prévue pour piloter 2 moteurs à balais 7 à 35 Vcc jusqu'à 25 A. Cette carte se pilote en PWM, UART, via un potentiomètre ou via un signal RC.",
+  "Prix (EUR)" : "94.90",
+  "Code produit" : "38335",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Commande I2C de 2 moteurs CC Grove 105020010",
+  "URL du produit" : "https://www.gotronic.fr/art-commande-i2c-de-2-moteurs-cc-grove-105020010-24542.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/24542.jpg",
+  "Description du produit" : "Carte de commande Grove basée sur deux ponts en H DRV8830. Elle permet de contrôler deux moteurs CC dans les deux sens jusqu'à 200 mA par canal.",
+  "Prix (EUR)" : "15.30",
+  "Code produit" : "34246",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Shield moteur 2 x 18 A 2515",
+  "URL du produit" : "https://www.gotronic.fr/art-shield-moteur-2-x-18-a-2515-27382.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/27382.jpg",
+  "Description du produit" : "Ce shield de Pololu compatible Arduino, basé sur deux ponts en H, permet de contrôler deux moteurs CC jusqu'à 18 A par canal.",
+  "Prix (EUR)" : "62.90",
+  "Code produit" : "35658",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Kit débutant 13 montages micro:bit",
+  "URL du produit" : "https://www.gotronic.fr/art-kit-debutant-13-montages-micro-bit-29132.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/29132.jpg",
+  "Description du produit" : "Débutez facilement avec micro:bit grâce à cet ensemble de Go Tronic comprenant un livret en français détaillant 13 montages ainsi que tous les composants nécessaires aux différents montages.",
+  "Prix (EUR)" : "76.90",
+  "Code produit" : "36253",
+  "Disponibilité" : "Produit retiré"
+}, {
+  "Nom du produit" : "Régulateur unidirectionnel 5 A HB645",
+  "URL du produit" : "https://www.gotronic.fr/art-regulateur-unidirectionnel-5-a-hb645-29042.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/29042.jpg",
+  "Description du produit" : "Régulateur basé sur un transistor MOSFET permettant de faire varier manuellement la vitesse dans un sens d'un moteur CC jusqu'à 5 A grâce à un potentiomètre.",
+  "Prix (EUR)" : "53.95",
+  "Code produit" : "36238",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Module AutoDriver BOB-13752",
+  "URL du produit" : "https://www.gotronic.fr/art-module-autodriver-bob-13752-26615.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/26615.jpg",
+  "Description du produit" : "Module de commande de moteur pas-à-pas bipolaire basé sur le circuit dSPIN L6470 équipé de détection de surtensions, de tension insuffisante, de surchauffe et de blocage du moteur.",
+  "Prix (EUR)" : "47.95",
+  "Code produit" : "35321",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Carte Mini Driver MKII",
+  "URL du produit" : "https://www.gotronic.fr/art-carte-mini-driver-mkii-24795.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/24795.jpg",
+  "Description du produit" : "Carte de contrôle Mini Driver MKII compatible Arduino basée sur un ATmega328P permettant de contrôler 2 moteurs CC jusqu'à 2,5 A en pointe dans les deux sens.",
+  "Prix (EUR)" : "18.50",
+  "Code produit" : "34440",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Kit Pico pour débutant 11 montages",
+  "URL du produit" : "https://www.gotronic.fr/art-kit-pico-pour-debutant-11-montages-35660.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/35660.jpg",
+  "Description du produit" : "Débutez facilement avec la carte Raspberry Pi Pico grâce à cet ensemble de Go Tronic comprenant un livret en français détaillant 11 montages ainsi que tous les composants nécessaires aux différents montages.",
+  "Prix (EUR)" : "52.90",
+  "Code produit" : "37894",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Module Drive:Bit",
+  "URL du produit" : "https://www.gotronic.fr/art-module-drive-bit-30998.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/30998.jpg",
+  "Description du produit" : "Carte de contrôle pour micro:bit permettant le contrôle de deux moteurs CC jusqu'à 1 A par canal.",
+  "Prix (EUR)" : "10.75",
+  "Code produit" : "36563",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Kit débutant 13 montages micro:bit V2",
+  "URL du produit" : "https://www.gotronic.fr/art-kit-debutant-13-montages-micro-bit-v2-34926.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/34926.jpg",
+  "Description du produit" : "Débutez facilement avec micro:bit grâce à cet ensemble de Go Tronic comprenant un livret en français détaillant 13 montages micro:bit ainsi que tous les composants nécessaires aux différents montages. Edition micro:bit V2.",
+  "Prix (EUR)" : "79.40",
+  "Code produit" : "37596",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Carte PoStep60-256",
+  "URL du produit" : "https://www.gotronic.fr/art-carte-postep60-256-27748.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/27748.jpg",
+  "Description du produit" : "Carte de commande pour un moteur pas-à-pas bipolaire ou deux moteurs CC, commandés par une liaison USB ou grâce à un microcontrôleur par une liaison I2C, un signal digital ou un signal PWM.",
+  "Prix (EUR)" : "59.05",
+  "Code produit" : "35758",
+  "Disponibilité" : "En stock"
+}, {
+  "Nom du produit" : "Kit Atom PWM K065",
+  "URL du produit" : "https://www.gotronic.fr/art-kit-atom-pwm-k065-34412.htm",
+  "Image du produit" : "https://www.gotronic.fr/media/cache/resolve/sylius_shop_product_thumbnail/media/images-arobases/product/34412.jpg",
+  "Description du produit" : "Kit de développement miniature M5 Atom PWM basé sur un module Atom Lite avec interfaces WiFi et Bluetooth. Ce module est associé à une extension PWM prévue pour piloter une charge 12 à 24 Vcc/100 W maxi comme un moteur ou une charge compatible.",
+  "Prix (EUR)" : "22.90",
+  "Code produit" : "37505",
+  "Disponibilité" : "En rupture"
+} ]

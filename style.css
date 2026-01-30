@@ -1,0 +1,182 @@
+:root {
+    --primary: #2563eb;
+    --bg-main: #f8fafc;
+    --bg-card: #ffffff;
+    --text-dark: #1e293b;
+    --text-light: #64748b;
+    --border: #e2e8f0;
+    --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+/* Structure globale */
+body {
+    font-family: 'Inter', -apple-system, system-ui, sans-serif;
+    background-color: var(--bg-main);
+    color: var(--text-dark);
+    margin: 0;
+    line-height: 1.5;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    text-align: center;
+    padding: 3rem 1rem;
+    background-color: white;
+    border-bottom: 1px solid var(--border);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+/* Conteneur élargi pour permettre 4 colonnes sur PC */
+.container {
+    display: flex; 
+    max-width: 1400px; 
+    margin: 0 auto;
+    padding: 40px 20px;
+    gap: 30px;
+    flex: 1; 
+}
+
+/* Sidebar de filtres */
+.filters {
+    flex: 0 0 260px; 
+    background-color: var(--bg-card);
+    padding: 25px;
+    border-radius: 12px;
+    height: fit-content;
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow);
+}
+
+.filters h3 {
+    margin-top: 0;
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+/* Inputs & Selects */
+.search-style, select {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: #f1f5f9;
+    color: var(--text-dark);
+    font-size: 0.95rem;
+    box-sizing: border-box;
+    transition: all 0.2s;
+}
+
+.search-style:focus, select:focus {
+    border-color: var(--primary);
+    background: white;
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+/* GRILLE - MODIFIÉE POUR 4 COLONNES */
+.grid {
+    flex: 3;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+
+/* Cartes produits */
+.card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    padding: 15px; /* Ajout du padding interne supprimé dans ta version */
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    width: 100%;
+    height: 150px; /* Légèrement réduit pour l'affichage en 4 colonnes */
+    object-fit: contain;
+    background: white;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.card h3 {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.2;
+    height: 2.4em; /* Garde les titres alignés sur 2 lignes */
+    overflow: hidden;
+}
+
+.price {
+    color: var(--primary);
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+.desc {
+    color: var(--text-light);
+    font-size: 0.85rem;
+    margin-bottom: 15px;
+    height: 3em; /* Aligne le début des descriptions */
+    overflow: hidden;
+}
+
+.btn-detail {
+    text-align: center;
+    background: var(--primary);
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    margin-top: auto;
+    transition: background 0.2s;
+}
+
+.btn-detail:hover {
+    background: #1d4ed8;
+}
+
+/* Footer */
+footer {
+    background-color: white;
+    border-top: 1px solid var(--border);
+    padding: 30px 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* Mobile */
+@media (max-width: 1024px) {
+    .grid {
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); /* 2 ou 3 colonnes sur tablette */
+    }
+}
+
+@media (max-width: 768px) {
+    .container { flex-direction: column; }
+    .filters { flex: none; max-width: 100%; }
+    .grid {
+        grid-template-columns: 1fr; /* 1 seule colonne sur mobile */
+    }
+}

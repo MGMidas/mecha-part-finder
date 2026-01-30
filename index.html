@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mecha-Part Finder ⚙️</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Mecha-Part Finder ⚙️</h1>
+        <p>Trouve le composant idéal pour ton invention</p>
+    </header>
+
+    <main class="container">
+        <aside class="filters">
+            <h3>Recherche</h3>
+            
+            <label for="search-input">Mot-clé :</label>
+            <input type="text" id="search-input" placeholder="Ex: MG90, pignon..." class="search-style"> 
+
+            <hr class="separator">
+
+            <label for="type-select">Type de moteur :</label>
+            <select id="type-select">
+                <option value="all">Tous les types</option><option value="servo">Servomoteur</option><option value="dc">Moteur CC</option>
+            </select>
+
+            <label for="voltage-select">Tension :</label>
+            <select id="voltage-select">
+                <option value="all">Toutes</option><option value="5">5V</option><option value="12">12V</option>
+            </select>
+        </aside>
+
+        <section id="results-grid" class="grid">
+            <p>Chargement des composants...</p>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2024 Mecha-Part Finder | Données extraites de <a href="https://www.gotronic.fr" target="_blank">Gotronic.fr</a></p>
+            <p>Conçu pour les inventeurs et les roboticiens 🛠️</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
