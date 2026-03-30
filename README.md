@@ -17,4 +17,4 @@ Un catalogue intelligent pour trouver rapidement des composants de robotique et 
 1. Cloner le projet.
 2. Lancer `index.html` via un serveur local (ex: Live Server).
 
-je tien a précisé que cela et et pour ma formation 
+je tien a précisé que cela et pour ma formation 
